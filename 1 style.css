@@ -1,0 +1,11 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+section {
+    background-color: green;
+    color: white;
+    padding: 20px;
+}
+
+
