@@ -14,8 +14,12 @@
     background-color: green;
     color: white;
     padding: 20px;
-    margin-bottom: 10px;
 }
 .all {
     margin-bottom: 10px;
+}
+div {
+    background-color: green;
+    color: white;
+    padding: 20px;
 }
